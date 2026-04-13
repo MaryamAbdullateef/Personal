@@ -60,7 +60,7 @@ const questions = [
       { text: "Assignment", correct: false },
       { text: "Equality with type check", correct: true },
       { text: "Not equal", correct: false },
-      { text: "Add", correct: true },
+      { text: "Add", correct: false },
     ],
   },
   {
